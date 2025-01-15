@@ -18,4 +18,4 @@ driving.
 4. Box Knockdown : The mission is to knock down all the
 boxes by throwing stones on it.
 
-https://www.youtube.com/watch?v=hHLlxR6oOFA
+[![Video Title](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=hHLlxR6oOFA)
