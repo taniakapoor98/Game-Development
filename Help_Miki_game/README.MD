@@ -1,5 +1,5 @@
-#HELP MIKI
-
+# HELP MIKI
+ 
 Help Miki is a teenage romance/adventure/action/comedy
 game in which the player helps the boy character Miki,
 complete different missions in order to impress the girl
