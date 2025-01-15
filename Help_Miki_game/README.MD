@@ -1,6 +1,6 @@
 # HELP MIKI
  
-Help Miki is a teenage romance/adventure/action/comedy
+Help Miki is a teenage rom-com
 game in which the player helps the boy character Miki,
 complete different missions in order to impress the girl
 character Anne. The game has 4 levels. Each of these has
@@ -17,3 +17,5 @@ driving.
 15 secs to win.
 4. Box Knockdown : The mission is to knock down all the
 boxes by throwing stones on it.
+
+https://www.youtube.com/watch?v=hHLlxR6oOFA
